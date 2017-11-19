@@ -17,3 +17,6 @@ The written tutorial can be found [here].(https://coursetro.com/posts/code/84/Se
 protection.
 [Passport](http://www.passportjs.org/) helps with authentication.
 If one must handle passwords, encrypt them with [bcrypt](https://github.com/ncb000gt/node.bcrypt.js)
+
+Unit test with [Mocha](https://mochajs.org/).
+Test Angular apps with [Protractor](http://www.protractortest.org/#/).
